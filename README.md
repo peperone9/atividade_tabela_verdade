@@ -1,0 +1,1 @@
+# atividade_tabela_verdade
